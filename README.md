@@ -1,3 +1,5 @@
+## NAME: GOKUL S
+## DATE: 27.04.2025
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 ## AIM
 To write a C Program to find area of rectangle using pointer.
